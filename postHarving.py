@@ -1,11 +1,12 @@
 from pydantic import BaseModel
-from openai import OpenAI
+import openai
 import csv
 import json
 from pydantic import ValidationError
 from typing import List
 
-client = OpenAI()
+client = openai.OpenAI()  # If using a modern version
+
 
 post='''Description Our software engineers develop next generation technologies that enable the creation of media entertainment that you enjoy at home or on the go. Our software plays a significant role in producing and delivering your favourite sports, shows and movies. Anything you watch on TV or stream online, there's a good chance Evertz software is behind the scenes making it happen. When you join our team, you will immediately begin developing software that ships.  While doing so, you will apply your academic and professional backgrounds to interesting and challenging problems. Your software will be used by skilled media professionals in critical media operations around the world. This is your opportunity to be part of an exciting industry that is undergoing rapid technological advancement.
  
