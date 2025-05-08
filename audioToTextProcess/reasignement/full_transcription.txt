@@ -1,0 +1,52 @@
+A few weeks after that, I was removed from my position and reassigned to another position, that time in the service, corporation of service of the Libertador municipality. I was in charge of some public spaces, so areas for the for the people, for the public, open to the public in the outdoor, but together with the responsibility I was to perform, or to take a shift during any, a night during any other week, any other week during the night, and act as a director of operation. Also, you know, also I was in the corporation building, part of the Libertador municipality, and I, during the meetings that I had with the other engineers, I met the Conejo, who's a reference I mentioned before, that reference I mentioned before. He had an office in that building, and anytime I saw them, he and his group, I, I just crossed a path, and the whole way, and I recognized some places from that interactions.
+
+***
+
+Grammatical & Structural Issues:
+"that time in the service, corporation of service of the Libertador municipality"
+
+Issue: Redundant and awkward phrasing.
+
+Suggestion: "this time in the Libertador Municipality's Service Corporation" or "assigned to the Service Corporation of the Libertador Municipality."
+
+"so areas for the for the people, for the public, open to the public in the outdoor"
+
+Issue: Repetitive and unclear phrasing.
+
+Suggestion: "specifically public outdoor spaces" or "areas open to the general public."
+
+"together with the responsibility I was to perform, or to take a shift during any, a night during any other week, any other week during the night"
+
+Issue: Disjointed sentence structure and repetition.
+
+Suggestion: "I was also required to work a night shift every other week, acting as the director of operations."
+
+"also, you know, also I was in the corporation building, part of the Libertador municipality"
+
+Issue: Informal (“you know”), redundant “also,” awkward phrasing.
+
+Suggestion: "Additionally, I worked in the corporation building, which was part of the Libertador Municipality."
+
+"and I, during the meetings that I had with the other engineers"
+
+Issue: Awkward placement of “I”; can be streamlined.
+
+Suggestion: "During meetings with other engineers, I..."
+
+"I met the Conejo, who's a reference I mentioned before, that reference I mentioned before"
+
+Issue: Article misuse (“the Conejo”), redundancy.
+
+Suggestion: "I met De Conejo, the person I mentioned earlier."
+
+"anytime I saw them, he and his group, I, I just crossed a path, and the whole way"
+
+Issue: Disjointed and unclear. Repetitive “I,” unclear meaning of “crossed a path” and “the whole way.”
+
+Suggestion: "Whenever I encountered him and his group, I simply avoided them and kept my distance."
+
+"I recognized some places from that interactions"
+
+Issue: Grammar mismatch (“that interactions”).
+
+Correction: "I recognized some places from those interactions."
